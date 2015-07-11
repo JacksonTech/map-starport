@@ -1,0 +1,6 @@
+maps/*.autosave.map
+maps/*.bak
+maps/starport/
+maps/*.srf
+maps/*.prt
+maps/*.bsp
